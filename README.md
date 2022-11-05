@@ -40,9 +40,5 @@
 </p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ha-rshh&show_icons=true&locale=en&layout=compact" alt="ha-rshh"/></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ha-rshh&show_icons=true&locale=en" alt="ha-rshh" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ha-rshh&" alt="ha-rshh" /></p>
